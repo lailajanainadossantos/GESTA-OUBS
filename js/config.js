@@ -1,0 +1,1 @@
+window.APP_CONFIG={APPS_SCRIPT_URL:"COLE_AQUI_A_URL_DO_WEBAPP",UBS_TITULO:"UBS Rio Grande",MUNICIPIO:"Palhoça",UF:"Santa Catarina",SECRETARIA:"Secretaria Municipal de Saúde",PREFEITURA:"Prefeitura Municipal de Palhoça"};
